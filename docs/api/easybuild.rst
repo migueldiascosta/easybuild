@@ -8,22 +8,12 @@ Subpackages
 
 .. toctree::
 
-    easybuild.base
-    easybuild.framework
-    easybuild.toolchains
-    easybuild.tools
-
-Submodules
-----------
-
-.. toctree::
-
-   easybuild.main
+   easybuild.easyblocks
 
 Module contents
 ---------------
 
 .. automodule:: easybuild
-    :members:
-    :undoc-members:
-    :show-inheritance:
+   :members:
+   :undoc-members:
+   :show-inheritance:
